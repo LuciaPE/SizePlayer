@@ -1,0 +1,11 @@
+name: 플레이어_크기수정
+version: 1.0
+main: Enes5519\OyuncuBuyukluk\OyuncuBuyukluk
+api: 
+- 2.0.0
+- 3.0.0
+author: Enes5519(수정:Haning)
+
+permission:
+  enes5519.buyut: 
+    default: op
